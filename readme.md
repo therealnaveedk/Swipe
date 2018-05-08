@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 You need React, React Native, React Native Elements and Expo XDE (to view the app on an iOS/Android device).
 
-Best done by using npm (will need Node.js for nom)
+Best done by using npm (will need Node.js for npm)
 
 ## Authors
 
